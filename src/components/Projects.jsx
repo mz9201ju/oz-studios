@@ -39,6 +39,12 @@ export default function Projects() {
             desc: "At Deeba's Daycare, we offer exceptional home day care services, so the little ones are properly taken care of during your busy day.",
             url: "https://mz9201ju.github.io/deebasDayCare/",
             img: screenshot("https://mz9201ju.github.io/deebasDayCare/"),
+        },
+        {
+            title: "ELIA Barber Shop",
+            desc: "A local Bellevue barber shop website I built to help the business grow its online visibility.",
+            url: "https://mz9201ju.github.io/ELIA_BarberShop_WebSite/",
+            img: screenshot("https://mz9201ju.github.io/ELIA_BarberShop_WebSite/"),
         }
     ];
 
