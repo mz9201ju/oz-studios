@@ -1,16 +1,58 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 
+ OZ·IT STUDIOS
+ ### _Engineering the Future — One Line of Code at a Time_
+ ![OZ IT Studios Banner](./public/logo.png)--
+## 
+ About OZ·IT Studios
+ OZ·IT Studios is a futuristic engineering hub created by **Omer Zahid** — delivering next-gen web
+ apps, cloud-native services, and AI-powered systems.
+ The studio blends:- - - - --
+## 
+ Cutting-edge engineering
+ Premium, Apple-inspired UI design
+ Automation, AI, DevOps
+ Full-stack mastery (React, Vite, Tailwind, Spring Boot, Cloudflare Workers)
+ Tech Stack
+ | Category | Tools |
+ |---------|-------|
+ | **Frontend** | React 19, Vite, TailwindCSS, React Router |
+ | **Backend** | Spring Boot 3, Java 17 |
+ | **DevOps** | GitHub Actions, Cloudflare Workers |
+ | **Hosting** | GitHub Pages, Cloudflare |
+ | **Design** | Sci-Fi Neon UI, Glassmorphism, Dark Mode |--
+## 
+ Live Project Links
+ | Project | URL |
+ |--------|-----|
+ | **OZ·IT Studios Website** | https://omerzahid.com/ozstudios |
+ | **GitHub Pages Deploy** | https://mz9201ju.github.io/oz-studios |--
+## 
+Clone:
+ ```
+ Local Development
+ git clone https://github.com/mz9201ju/oz-it-studios.git
+ cd oz-it-studios
+ ```
+ Install dependencies:
+```
+ npm install
+ ```
+ Run dev:
+ ```
+ npm run dev
+ ```
+ Build:
+ ```
+ npm run build
+ ```
+ Preview:
+ ```
+ npm run preview
+ ```--
+## 
+ GitHub Pages Deployment
+ Automated CI/CD pipeline includes:- - - - 
+ Build on push to `main`
+ SPA-safe fallback `404.html`
+ Zero-cache deploy strategy
+ Auto-hashed Vite asset
