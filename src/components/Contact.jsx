@@ -141,7 +141,15 @@ export default function Contact() {
                             {loading ? "Sending..." : "Send Message"}
                         </button>
                     </div>
-
+                    <div className={styles.contact__buttonWrap}>
+                        <button
+                            type="button"
+                            className={styles.contact__button}
+                            onClick={() => window.location.href = "tel:+14253751844"}
+                        >
+                            Call OZ
+                        </button>
+                    </div>
                     {/* STATUS */}
                     {status && <p className={styles.contact__status}>{status}</p>}
                 </div>

@@ -117,11 +117,10 @@
     }
 
     .visionCard {
-        background: linear-gradient(
-            135deg,
-            rgba(15, 23, 42, 0.55) 0%,
-            rgba(30, 41, 59, 0.75) 40%,
-            rgba(15, 23, 42, 0.88) 100%
-        );
+        padding: 33px 0px 10px 10px;
+        max-height: none;
+
+        background: linear-gradient(120deg, #38bdf8, #a855f7, #22c55e);
+        backdrop-filter: blur(20px);
     }
 }
