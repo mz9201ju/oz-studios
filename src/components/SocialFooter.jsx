@@ -8,7 +8,7 @@ export default function SocialFooter() {
         linkedin: "https://www.linkedin.com/in/omer-zahid-developer/",
         youtube: "https://www.youtube.com/@skylightGCC",
         facebook: "https://facebook.com",
-        email: "omerzahid.dev@gmail.com",
+        email: "info@omerzahid.com",
         instagram: "https://instagram.com/abuyousufdeveloper",
         coffee: "https://www.buymeacoffee.com/omerzahid",
     };
