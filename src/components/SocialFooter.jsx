@@ -6,8 +6,8 @@ export default function SocialFooter() {
     const links = {
         github: "https://github.com/mz9201ju",
         linkedin: "https://www.linkedin.com/in/omer-zahid-developer/",
-        youtube: "https://www.youtube.com/@skylightGCC",
-        facebook: "https://facebook.com",
+        youtube: "https://www.youtube.com/@AbuvYousuf",
+        facebook: "https://www.facebook.com/abuyousufdeveloper",
         email: "info@omerzahid.com",
         instagram: "https://instagram.com/abuyousufdeveloper",
         coffee: "https://www.buymeacoffee.com/omerzahid",
