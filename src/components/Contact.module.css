@@ -92,7 +92,7 @@
 
     border: none;
     cursor: pointer;
-    width: fit-content;
+    width: -webkit-fill-available;
     margin: 0 auto;
 
     box-shadow: 0 20px 45px rgba(0, 0, 0, 0.55);
